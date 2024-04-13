@@ -1,0 +1,24 @@
+body {
+	margin: 0px;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.darkBody {
+	width: 1440px;
+	height: 2398px;
+	background: rgba(29, 47, 48, 1);
+	margin: 0 auto;
+}
+.headBar {
+	width: 1440px;
+	height: 60px;
+	background-color: #ff0000;
+}
+.elementabc {
+	margin-top: 100px;
+	margin-right: 100px;
+	background-color: #000000;
+}
