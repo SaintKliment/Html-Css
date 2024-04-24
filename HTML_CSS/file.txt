@@ -1,15 +1,1 @@
-https://verstaem.online/projects/hard/?adaptive=adaptive
-https://www.figma.com/file/jHDVsiVR8JBpkMsYehKCEj/Eatly?type=design&node-id=0-1&mode=design&t=wIGXwFBX3XBvL5Rl-0
-https://fonts.google.com/selection/embed
-fonts: Inter, Poppins'
 
-https://help.fsight.ru/9.2U6/ru/mergedProjects/dhtmlChart/components/chart/chartsplineserie.htm
-https://kokoc.com/blog/chto-takoe-adaptivnaya-vyorstka-sajta-primery/
-https://selectel.ru/blog/tutorials/how-to-install-and-configure-apache-web-server/
-
-https://codelab.pro/prostoe-burger-menyu-na-chistom-javascript/
-https://habr.com/ru/articles/519662/
-https://misha.agency/javascript/klik-vne-elementa.html
-
-
-Вика проект https://www.figma.com/file/fG61Ja1ye0jtkKbuvt9OR0/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85-%D0%B0%D1%80%D1%82%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D0%B2?type=design&node-id=0-1&mode=design&t=P9VYV3TqhsNaDkNs-0
